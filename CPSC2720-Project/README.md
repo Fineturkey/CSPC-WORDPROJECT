@@ -1,7 +1,5 @@
 # Template for CPSC2720 Assignments, Labs, and Projects
 
-Last Updated: 2022-12-15 by Nicole Wilson &lt;n.wilson@uleth.ca&gt;
-
 Your ultimate goal is to rescue the wise man, imprisoned in a mysterious cage, who holds the key to saving the country.
 Welcome, brave knight, to an epic adventure! Your quest spans nine unique settings, each with its challenges and mysteries. Explore the following lands:
 
